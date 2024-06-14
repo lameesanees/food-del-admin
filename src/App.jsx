@@ -8,7 +8,7 @@ import "react-toastify/dist/ReactToastify.css";
 import { ToastContainer } from "react-toastify";
 import AddItem from "./Pages/AddItem/AddItem";
 function App() {
-  const url = "http://localhost:4000";
+  const url = "https://food-del-b.onrender.com";
   return (
     <div>
       <ToastContainer />
